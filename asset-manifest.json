@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Odisha_Turist/static/css/main.65244502.css",
+    "main.js": "/Odisha_Turist/static/js/main.52805555.js",
+    "index.html": "/Odisha_Turist/index.html",
+    "main.65244502.css.map": "/Odisha_Turist/static/css/main.65244502.css.map",
+    "main.52805555.js.map": "/Odisha_Turist/static/js/main.52805555.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65244502.css",
+    "static/js/main.52805555.js"
+  ]
+}
